@@ -1,4 +1,4 @@
-# Flask quotes
+# Flask Quotes
 
 ![](flaskquotes.gif)
 
