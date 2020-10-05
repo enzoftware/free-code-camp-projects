@@ -1,4 +1,5 @@
-from flask import Flask , flash , redirect , render_template ,  request , session , abort
+
+from flask import Flask , flash , redirect , render_template ,  request , session , abort#import all the module
 from random import  choice
 app = Flask(__name__)
 
